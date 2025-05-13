@@ -42,6 +42,7 @@ For **extra controls and Easter eggs**, check the `README.html` included in the 
 - No, she doesn’t understand memes (very well).
 - The goal was to make something weird, fun, and pass my semsester. Mission kinda accomplished?
 - Aileen is not sentient... probably.
+- Eileen + Ai = yeah i am bad at names i know 
 
 ## 👩‍💻 Contributors
 
