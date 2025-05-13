@@ -1,0 +1,41 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 34, in script
+    $ import AIMLBot
+  File "game/script.rpy", line 34, in script
+    $ import AIMLBot
+  File "game/script.rpy", line 34, in <module>
+    $ import AIMLBot
+ModuleNotFoundError: No module named 'Kernel'
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "D:\renpy-8.0.3-sdk\renpy\bootstrap.py", line 277, in bootstrap
+    renpy.main.main()
+  File "D:\renpy-8.0.3-sdk\renpy\main.py", line 558, in main
+    renpy.game.context().run(node)
+  File "game/script.rpy", line 34, in script
+    $ import AIMLBot
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/site-packages/future/utils/__init__.py", line 441, in raise_
+  File "game/script.rpy", line 34, in script
+    $ import AIMLBot
+  File "D:\renpy-8.0.3-sdk\renpy\ast.py", line 1131, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "D:\renpy-8.0.3-sdk\renpy\python.py", line 1061, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 34, in <module>
+    $ import AIMLBot
+  File "D:\renpy-8.0.3-sdk\renpy\loader.py", line 1007, in load_module
+    exec(code, mod.__dict__) # type: ignore
+  File "AIMLBot.py", line 1, in <module>
+  File "D:\renpy-8.0.3-sdk\renpy\loader.py", line 1007, in load_module
+    exec(code, mod.__dict__) # type: ignore
+  File "aiml/__init__.py", line 3, in <module>
+ModuleNotFoundError: No module named 'Kernel'
+
+Windows-10-10.0.19044 AMD64
+Ren'Py 8.0.3.22090809
+Aileen 0.0
+Mon Feb  6 20:40:15 2023
