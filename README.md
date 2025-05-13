@@ -7,7 +7,7 @@
 
 ## 🎮 Whats this you got ?
 
-**Aileen** is a quirky little Visual Novel powered by the [Ren'Py](https://www.renpy.org/) engine, created as a 3rd-year college project (2022). But don’t let the “college project” tag fool you—this is a fully interactive anime chatbot experience. Yep, you read that right. She talks back.  
+**Aileen** is a quirky little Visual Novel powered by the [Ren'Py](https://www.renpy.org/) engine, created as a mid-sem college project (2022). But don’t let the “college project” tag fool you—this is a fully interactive anime chatbot experience. Yep, you read that right. She talks back.  
 
 Built using the [A.L.I.C.E. AIML set](http://www.alicebot.org/aiml.html), Aileen is a fully-scripted AI conversationalist with the charm of a mid-2000s IRC bot and the visual flair of a modern VN waifu. The goal? Mess around. Talk. Ask weird questions. See what happens.
 
@@ -43,22 +43,9 @@ For **extra controls and Easter eggs**, check the `README.html` included in the 
 - The goal was to make something weird, fun, and pass my semsester. Mission kinda accomplished?
 - Aileen is not sentient... probably.
 
-## 🛠️ Tools Used
-
-- **Ren'Py** - For making her look cute and run smoothly.
-- **A.L.I.C.E. AIML** - For giving her the mind of a chatbot philosopher.
-- **VS Code** - For editing all those lovely `.rpy` and `.aiml` files.
-
-## 📜 License & Credits
-
-- AIML set courtesy of [alicebot.org](http://www.alicebot.org).
-- Ren'Py engine by [Ren'Py Developers](https://www.renpy.org/).
-- Everything else cobbled together by me, with love, caffeine, and mild deadline panic.
-
----
 ## 👩‍💻 Contributors
 
-Currently, it's just me — a lone developer armed with Ren'Py, AIML, and dreams slightly too large for one human brain.
+Currently, it's just me — a lone developer armed with a 32bit thinkpad, and dreams slightly too large for one human brain.
 
 But the world can always use more sentient anime girls.
 
@@ -81,4 +68,10 @@ If you’re looking for a short weird philosophy trip, **Aileen** is your girl.
 Have fun talking to her. Be nice. She’s trying her best.
 
 Made with ❤️ and caffine . Maybe drop a ⭐ if you liked it ( •̀ ω •́ )y 
+
+## 📜 License & Credits
+
+- AIML set courtesy of [alicebot.org](http://www.alicebot.org).
+- Ren'Py engine by [Ren'Py Developers](https://www.renpy.org/).
+  
 
